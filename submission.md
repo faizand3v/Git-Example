@@ -1,0 +1,1 @@
+learnt about git command  to create repo clone a exsiting repo ,how to pull and push code to the repo creating a pull request reviewing a pull request merging a pull requst if there is a conflict how to resolve it , whevere we make any feature first we need to make a branch for it then create pull request to merge it into develop branch then to the main branch 
